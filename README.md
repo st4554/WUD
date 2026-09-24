@@ -12,26 +12,6 @@ This is a small program originally created by Jean-Sebastien Carle that I have d
 - An option to suppress per-file error popups is available; when enabled, WUD shows a single summary at the end of a download run.
 - UI layout adjusted to prevent overlapping controls at common display scales.
 
-## Notable changes (2026-09-14)
-This release contains several performance, reliability, and UX improvements to the download subsystem and settings UI.
-
-- **New settings**
-- `SuppressPerFileMessages` (Program): default `false`. When enabled, per-file MessageBox popups for failures are suppressed, and a single summary is shown at the end of the queue. Useful for automated or bulk downloads.
-
-- **Download performance and reliability**
-  - Increased default per-download buffer from 8 KB to 256 KB for improved throughput on modern networks and large files.
-  - When a Microsoft CDN is detected, the manager increases the buffer to 1 MB for better single-connection throughput.
-
-- **Logging and diagnostics**
-  - The download manager writes diagnostic logs to `%LOCALAPPDATA%\Supremus Corporation\Windows Updates Downloader\download.log`.
-
-- **Installer integration**
-  - When `Download and Install` is used, downloaded files (`.msu`, `.exe`, `.cab`) are invoked with quiet/no-restart switches where applicable (`wusa.exe` for MSU, `dism.exe` for CAB).
-
-- **System Requirements**
-  - `Microsoft .NET Framework 4.8.1`.
-  - Settings keys: `Program.SuppressPerFileMessages` are read/written in the Settings section of the application settings.
-
 ## Privacy note
 This repository is closed-source. No source code will be shared.
 
