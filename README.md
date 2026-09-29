@@ -1,5 +1,7 @@
 # Windows Updates Downloader (WUD)
 
+[IMG](https://github.com/st4554/WUD/blob/main/WUD-v6.0-Final.png?raw=true)
+
 ## Description
 WUD is a utility to download updates and vendor binaries from update lists (.ul files). It includes download reliability improvements and UI options to control behavior.
 
