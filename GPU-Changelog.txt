@@ -1,0 +1,18 @@
+What's in this Beta GPU Drivers update list:-
+
+October 6th 2026
+
+NVIDIA: v617.42 - Both Desktop and Notebook versions
+
+NVIDIA: v582.78 - Both Desktop and Notebook versions
+
+AMD: v26.9.2 - For the latest AMD GPU's
+
+Intel: v32.0.101.9034 - For Intel Arc Graphics only
+
+Intel: v32.0.101.8976 - For Intel Arc Pro Graphics only
+
+Intel: v32.0.101.7092 - For Intel 11th – 14th Gen Processor Graphics
+
+Intel: v31.0.101.2145 - For Intel 7th – 10th Gen Processor Graphics
+
