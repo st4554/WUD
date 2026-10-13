@@ -1,28 +1,30 @@
 What's in these update lists:-
 
-September 22nd 2026
+October 13th 2026
 
 Windows 10 v22H2 ESU
 
-KB5122878 has been replaced by KB5129236 (LCU)
+KB5129236 has been replaced by KB5126657 (LCU)
 
-KB5121647 has been replaced by KB5126146 (NETFX 3.5 and 4.8.1)
+KB5126146 has been replaced by KB5127689 (NETFX 3.5 and 4.8.1)
 
-KB5120248 has been replaced by KB5122887 (SafeOS)
+KB5122887 has been replaced by KB5126665 (SafeOS)
 
-KB5074207 has been replaced by KB5126029 (Setup DU)
+KB5126029 has not been superseded (Setup DU)
 
 ------------------------
 
 Windows 11 v25H2 and v26H2
 
-KB5129195 has been replaced by KB5124010 (LCU)
+KB5124010 has been replaced by KB5127648 (LCU)
 
-KB5120708 has been replaced by KB5126052 (NETFX 3.5 and 4.8.1)
+KB5126052 has been replaced by KB5127690 (NETFX 3.5 and 4.8.1 - v25H2 Only)
 
-KB5124015 has been replaced by KB5125758 (SafeOS)
+KB5126052 has been replaced by KB5127694 (NETFX 3.5 and 4.8.1 - v26H2 Only)
 
-KB5126056 has been replaced by KB5127216 (Setup DU)
+KB5125758 has been replaced by KB5127654 (SafeOS)
+
+KB5127216 has been replaced by KB5127650 (Setup DU)
 
 KB5121794 has been updated to v26100.9544.1.2 (26H2 Enablement)
 
@@ -30,12 +32,12 @@ KB5121794 has been updated to v26100.9544.1.2 (26H2 Enablement)
 
 Windows 11 v26H1
 
-KB5129194 has been replaced by KB5124006 (LCU)
+KB5124006 has been replaced by KB5127646 (LCU)
 
-KB5122386 has been replaced by KB5126053 (NETFX 4.8.1)
+KB5126053 has been replaced by KB5127691 (NETFX 4.8.1)
 
-KB5129255 has been replaced by KB5124013 (SafeOS)
+KB5124013 has been replaced by KB5127651 (SafeOS)
 
-KB5126041 has been replaced by KB5128941 (Setup DU)
+KB5128941 has been replaced by KB5127649 (Setup DU)
 
 
