@@ -1,12 +1,14 @@
-What's in this Beta GPU Drivers update list:-
+What's in this Beta 2 GPU Drivers update list:-
 
-October 13th 2026
+October 21st 2026
 
-NVIDIA: v617.42 - Both Desktop and Notebook versions
+NVIDIA: NEW v621.01 - RTX Spark N1X (Please note - This driver will only work on ARM64 Blackwell RTX GPU's)
+
+NVIDIA: v621.01 - Both Desktop and Notebook versions
 
 NVIDIA: v582.78 - Both Desktop and Notebook versions
 
-AMD: v26.9.2 - For the latest AMD GPU's
+AMD: v26.10.1 - For the latest AMD GPU's
 
 Intel: v32.0.101.9150 - For Intel Arc Graphics only
 
