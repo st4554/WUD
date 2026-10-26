@@ -1,6 +1,13 @@
 What's in these update lists:-
 
-October 13th 2026
+October 25th 2026
+
+Out of Band .NET 10 and 11 Security Updates
+
+.NET 10.0.14 (Windows Desktop runtime)
+.NET 11.0 RC3 (Windows Desktop runtime)
+
+------------------------
 
 Windows 10 v22H2 ESU
 
@@ -27,6 +34,10 @@ KB5125758 has been replaced by KB5127654 (SafeOS)
 KB5127216 has been replaced by KB5127650 (Setup DU)
 
 KB5121794 has been updated to v26100.9544.1.2 (26H2 Enablement)
+
+KB5132456 has been added
+
+KB5130475 has been added
 
 -------------------------
 
