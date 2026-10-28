@@ -1,13 +1,6 @@
 What's in these update lists:-
 
-October 27th 2026
-
-Out of Band .NET 10 and 11 Security Updates
-
-.NET 10.0.14 (Windows Desktop runtime)
-.NET 11.0 RC3 (Windows Desktop runtime)
-
-------------------------
+October 28th 2026
 
 Windows 10 v22H2 ESU
 
@@ -25,13 +18,15 @@ Windows 11 v25H2 and v26H2
 
 KB5127648 has been replaced by KB5134133 (LCU)
 
+KB5127648 has been replaced by KB5127936 (LCU Preview)
+
 KB5126052 has been replaced by KB5127690 (NETFX 3.5 and 4.8.1 - v25H2 Only)
 
 KB5126052 has been replaced by KB5127694 (NETFX 3.5 and 4.8.1 - v26H2 Only)
 
-KB5125758 has been replaced by KB5127654 (SafeOS)
+KB5127654 has been replaced by KB5120881 (SafeOS)
 
-KB5127216 has been replaced by KB5127650 (Setup DU)
+KB5127650 has been replaced by KB5128977 (Setup DU)
 
 KB5121794 has been updated to v26100.9544.1.2 (26H2 Enablement)
 
@@ -45,10 +40,12 @@ Windows 11 v26H1
 
 KB5127646 has been replaced by KB5134134 (LCU)
 
+KB5127646 has been replaced by KB5127653 (LCU Preview)
+
 KB5126053 has been replaced by KB5127691 (NETFX 4.8.1)
 
-KB5124013 has been replaced by KB5127651 (SafeOS)
+KB5127651 has been replaced by KB5127652 (SafeOS)
 
-KB5128941 has been replaced by KB5127649 (Setup DU)
+KB5127649 has been replaced by KB5129651 (Setup DU)
 
 
