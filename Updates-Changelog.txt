@@ -1,10 +1,10 @@
 What's in these update lists:-
 
-November 10th 2026
+November 13th 2026
 
 Windows 10 v22H2 ESU
 
-KB5134125 has been replaced by KB5131096 (LCU)
+KB5131096 has been replaced by KB5136493 (LCU)
 
 KB5126146 has been replaced by KB5127689 (NETFX 3.5 and 4.8.1)
 
