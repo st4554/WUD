@@ -1,14 +1,14 @@
 What's in this Release Candidate GPU Drivers update list:-
 
-November 7th 2026
+November 13th 2026
 
-NVIDIA: v621.14 - RTX Spark N1X
+NVIDIA: v621.24 - RTX Spark N1X
 
-NVIDIA: v621.14 - Both Desktop and Notebook versions
+NVIDIA: v621.24 - Both Desktop and Notebook versions
 
 NVIDIA: v582.78 - Both Desktop and Notebook versions
 
-AMD: v26.10.2 - For the latest AMD GPU's
+AMD: v26.11.1 - For the latest AMD GPU's
 
 Intel: v32.0.101.9175 - For Intel Arc Graphics only
 
