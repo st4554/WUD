@@ -1,25 +1,23 @@
 # Windows Updates Downloader (WUD)
 
-<img width="1210" height="1002" alt="WUD-v6 0 1204" src="https://github.com/user-attachments/assets/c1e7e1d2-8c24-4d72-9106-94775699972f" />
+<img width="1210" height="965" alt="WUD v8.0" src="https://github.com/user-attachments/assets/f9f73702-b2c0-489f-b571-087a891a9c53" />
 
 ## Description
-WUD is a utility to download updates and vendor binaries from update lists (.ul files). It includes download reliability improvements and UI options to control behavior.
+WUD is a utility to download updates and vendor binaries from update lists (.ul files). It includes download reliability improvements and UI options to control behaviour.
 
 ## History
-This is a small program originally created by Jean-Sebastien Carle that I have decided to update and maintain that allows you to download and now install all of the current Windows critical updates and programs. All updates and programs are downloaded directly from Microsoft's new CDN servers to your computer with a single mouse click.
+This is a small program originally created by Jean-Sebastien Carle that I have decided to update and maintain that allows you to download and install all of the current Windows critical updates, Microsoft Programs and now in version 8.0 Graphics Card Drivers. All files are downloaded directly from Microsoft's new CDN servers. GPU Drivers are downloaded from NVIDIA, AMD and Intel to your computer with a single mouse click.
 
 ## Key user-visible changes
 - Improved download reliability
-- Conservative, browser-like request behaviour is used for better compatibility with CDN edges.
-- An option to suppress per-file error popups is available; when enabled, WUD shows a single summary at the end of a download run.
+- Conservative, browser-like request behaviour is used for better compatibility with CDN servers like Microsoft, AMD and Intel.
+- An option to suppress per-file error popups is available; when enabled, WUD shows a single summary of the download failure.
 - UI layout adjusted to prevent overlapping controls at common display scales.
+- Theme support for both Dark and Light modes and detects what theme settings Windows 10 or 11 is set too, when launched this is on by default.
+- Download optimizations for NVIDIA downloads, this is on by default with the option to turn off in the settings.
 
-## Privacy note
+## Please note
 This repository is closed-source. No source code will be shared.
-
-## Usage
-- Use the Options area to configure behavior.
-- The application persists user options between runs.
 
 ## Support
 If a download still fails, check `download.log` in the application's local data folder for troubleshooting entries and open a private issue with log excerpts
