@@ -6,7 +6,9 @@
 WUD is a utility to download updates and vendor binaries from update lists (.ul files). It includes download reliability improvements and UI options to control behaviour.
 
 ## History
-This is a small program originally created by Jean-Sebastien Carle that I have decided to update and maintain that allows you to download and install all of the current Windows critical updates, Microsoft Programs and now in version 8.0 Graphics Card Drivers. All files are downloaded directly from Microsoft's new CDN servers. GPU Drivers are downloaded from NVIDIA, AMD and Intel to your computer with a single mouse click.
+This is a small program originally created by Jean-Sebastien Carle that I have decided to update and maintain that allows you to download and install all of the current Windows critical updates, Microsoft Programs and now in version 8.0 Graphics Card Drivers. All files are downloaded directly from Microsoft's new CDN servers. GPU Drivers# are downloaded from NVIDIA, AMD and Intel to your computer with a single mouse click.
+
+**#Feature only available in WUD v8.0 or above.**
 
 ## Key user-visible changes
 - Improved download reliability
