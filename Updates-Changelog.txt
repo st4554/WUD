@@ -20,7 +20,9 @@ KB5134133 has been replaced by KB5132061 (LCU)
 
 KB5127936 has been replaced by KB5132057 (LCU Preview)
 
-KB5127690 and KB5127694 has been replaced by KB5137006 (NETFX 3.5 and 4.8.1)
+KB5127690 has been replaced by KB5137003 (NETFX 3.5 and 4.8.1 - v25H2 Only)
+
+KB5127694 has been replaced by KB5137006 (NETFX 3.5 and 4.8.1 - v26H2 Only)
 
 KB5132060 has been replaced by KB5133853 (SafeOS)
 
