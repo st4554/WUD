@@ -1,6 +1,6 @@
 What's in these update lists:-
 
-November 19th 2026
+November 23rd 2026
 
 Windows 10 v22H2 ESU
 
@@ -32,7 +32,7 @@ KB5121794 has been updated to v26100.9544.1.2 (26H2 Enablement)
 
 KB5132456 has not been superseded (OOBE)
 
-KB5130475 has not been superseded (WU)
+KB5130475 has been replaced by KB5137609 (WU)
 
 -------------------------
 
