@@ -1,6 +1,6 @@
 What's in these update lists:-
 
-November 23rd 2026
+November 25th 2026
 
 Windows 10 v22H2 ESU
 
@@ -45,6 +45,8 @@ KB5127653 has been replaced by KB5132265 (LCU Preview)
 KB5127691 has been replaced by KB5137005 (NETFX 4.8.1)
 
 KB5134999 has been added (OOBE)
+
+KB5137610 has been added (WU)
 
 KB5132058 has been replaced by KB5132805 (SafeOS)
 

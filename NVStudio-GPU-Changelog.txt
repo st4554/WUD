@@ -1,9 +1,9 @@
 What's in this NVIDIA Studio GPU Drivers update list:-
 
-November 13th 2026
+November 24th 2026
 
-NVIDIA: v621.24 - RTX Spark N1X
+NVIDIA: v621.40 - RTX Spark N1X
 
-NVIDIA: v621.24 - Both Desktop and Notebook versions
+NVIDIA: v621.40 - Both Desktop and Notebook versions
 
 NVIDIA: v581.57 - Both Desktop and Notebook versions
